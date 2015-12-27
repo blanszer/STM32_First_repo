@@ -36,7 +36,7 @@ void delay(int time)
     for (i = 0; i < time * 4000; i++) {}
 }
 
-
+//testowa zmiana
 int
 main(int argc, char* argv[])
 {
